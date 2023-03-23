@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Danila-Sergeev/Calculater/static/css/main.e6c13ad2.css",
+    "main.js": "/Danila-Sergeev/Calculater/static/js/main.0f4b9b1b.js",
+    "static/js/787.a174f9e5.chunk.js": "/Danila-Sergeev/Calculater/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/Danila-Sergeev/Calculater/index.html",
+    "main.e6c13ad2.css.map": "/Danila-Sergeev/Calculater/static/css/main.e6c13ad2.css.map",
+    "main.0f4b9b1b.js.map": "/Danila-Sergeev/Calculater/static/js/main.0f4b9b1b.js.map",
+    "787.a174f9e5.chunk.js.map": "/Danila-Sergeev/Calculater/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0f4b9b1b.js"
+  ]
+}
